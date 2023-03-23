@@ -4,6 +4,8 @@
 # IP Check Server
 这个项目是一个简单的基于Flask的服务器，用于记录客户端的IP地址。当客户端请求服务器时，服务器会检查并记录客户端的IP地址。如果IP地址发生变化，服务器会调用`do_something`函数。
 
+This project is a simple Flask-based server that logs the IP addresses of clients. When a client requests the server, the server checks and records the IP address of the client. If the IP address changes, the server calls the do_something function.
+
 ## 安装依赖
 
 在运行此项目之前，请确保您已经安装了所有必需的依赖项。要安装依赖项，请运行以下命令：
