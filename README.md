@@ -17,7 +17,8 @@ pip install flask wsgiref
 python ip_check_server_flask.py -p 8080
 ```
 
-将8080替换为您想要使用的端口。
+可将8080替换为您想要使用的端口。
+可自定义 do_something 函数要进行什么操作
 
 ---
 
